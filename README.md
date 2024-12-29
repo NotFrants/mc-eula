@@ -5,7 +5,7 @@ To view the changes, go to the [commits tab](https://github.com/NotFrants/mc-eul
 ## ⚠️ Important ⚠️
 Commit name is the <ins><i>range of dates when the file was created/edited</i>, <b>not the range of dates when that file was on the website</b></ins>, as that simply can't be found, in the form `YYYYMMDDhhmmss`. The files include the date range in the format `MM/DD/YY hh:mm:ss`.
 
-# General Inforamtion
+# General Information
 
 All captures are from the [Wayback Machine](https://web.archive.org/), converted into plaintext, with all whitespace changes are ignored.
 The first couple of lines are used for storing information about the file, like the range of dates mensioned above, shown by the
