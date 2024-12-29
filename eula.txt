@@ -1,6 +1,7 @@
 <------------ start of file info ------------>
-File changed between 07/25/23 17:44:34 and 08/02/23 21:08:23
+File changed between 05/05/24 22:27:00 and 05/06/24 16:13:17
 <------------ end of file info ------------>
+Minecraft Logo
 Minecraft End(er)-User License Agreement (“EULA”)
 SUMMARY
 This EULA is a legal agreement between you and us (Mojang AB and Microsoft Corporation, or, if applicable, one of its local affiliates listed in the Company Information section below). You should read the whole thing but here is a quick summary of some important points to help guide you - the full terms and conditions still apply though.
